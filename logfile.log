@@ -1,0 +1,96 @@
+2022-09-13 13:27:52,443 INFO  [Log] Siteye gidildi 
+2022-09-13 13:27:53,289 INFO  [Log] Site dogrulamasi yapildi. 
+2022-09-13 13:27:54,758 INFO  [Log] ana_Sayfaya_Gidildigini_Dogrula() PASSED 
+2022-09-13 13:27:57,235 INFO  [Log] arama kutusuna sort yazildi 
+2022-09-13 13:28:00,351 INFO  [Log] arama kutusundan sort silindi 
+2022-09-13 13:28:00,351 INFO  [Log] arama_Kutusuna_Sort_Yaz_Ve_Sil() PASSED 
+2022-09-13 13:28:00,569 INFO  [Log] arama kutusuna gomlek yazildi ve entera basildi 
+2022-09-13 13:28:00,569 INFO  [Log] arama_Kutusuna_Gomlek_Yaz_Ve_Enter_Bas() PASSED 
+2022-09-13 13:28:10,962 INFO  [Log] Urune gidilip tiklanildi 
+2022-09-13 13:28:12,276 INFO  [Log] Urun bilgileri txt olarak kaydedildi 
+2022-09-13 13:28:12,277 INFO  [Log] rastgele_Urun_Secip_Bilgisini_Al() PASSED 
+2022-09-13 13:28:21,762 INFO  [Log] Urun sepete eklendi ve sepete gidildi 
+2022-09-13 13:28:21,763 INFO  [Log] secilen_Urunu_Sepete_Ekle() PASSED 
+2022-09-13 13:28:21,917 INFO  [Log] Sepetteki urun ile sayfadaki urunun fiyatlari karsilastirildi. 
+2022-09-13 13:28:21,918 INFO  [Log] urun_Fiyat_Karsilastir() PASSED 
+2022-09-13 13:28:28,659 INFO  [Log] Urun adedi artirildi ve 2 adet oldugu dogrulandi 
+2022-09-13 13:28:28,660 INFO  [Log] urun_Adedi_Artir_Ve_Dogrula() PASSED 
+2022-09-13 13:28:29,022 INFO  [Log] sepetteki urunler silindi ve sepetin bos oldugu dogrulandi. 
+2022-09-13 13:28:29,024 INFO  [Log] urun_Sil_Ve_Sepetin_Bos_Oldugunu_Dogrula() PASSED 
+2022-09-13 13:29:41,990 INFO  [Log] Siteye gidildi 
+2022-09-13 13:29:42,045 INFO  [Log] Site dogrulamasi yapildi. 
+2022-09-13 13:29:43,549 INFO  [Log] ana_Sayfaya_Gidildigini_Dogrula() PASSED 
+2022-09-13 13:29:45,548 INFO  [Log] arama kutusuna sort yazildi 
+2022-09-13 13:29:48,622 INFO  [Log] arama kutusundan sort silindi 
+2022-09-13 13:29:48,622 INFO  [Log] arama_Kutusuna_Sort_Yaz_Ve_Sil() PASSED 
+2022-09-13 13:29:48,757 INFO  [Log] arama kutusuna gomlek yazildi ve entera basildi 
+2022-09-13 13:29:48,757 INFO  [Log] arama_Kutusuna_Gomlek_Yaz_Ve_Enter_Bas() PASSED 
+2022-09-13 13:29:56,541 INFO  [Log] Urune gidilip tiklanildi 
+2022-09-13 13:29:57,439 INFO  [Log] Urun bilgileri txt olarak kaydedildi 
+2022-09-13 13:29:57,440 INFO  [Log] rastgele_Urun_Secip_Bilgisini_Al() PASSED 
+2022-09-13 13:30:05,961 INFO  [Log] Urun sepete eklendi ve sepete gidildi 
+2022-09-13 13:30:05,962 INFO  [Log] secilen_Urunu_Sepete_Ekle() PASSED 
+2022-09-13 13:30:06,269 INFO  [Log] Sepetteki urun ile sayfadaki urunun fiyatlari karsilastirildi. 
+2022-09-13 13:30:06,269 INFO  [Log] urun_Fiyat_Karsilastir() PASSED 
+2022-09-13 13:30:12,088 INFO  [Log] Urun adedi artirildi ve 2 adet oldugu dogrulandi 
+2022-09-13 13:30:12,089 INFO  [Log] urun_Adedi_Artir_Ve_Dogrula() PASSED 
+2022-09-13 13:30:12,508 INFO  [Log] sepetteki urunler silindi ve sepetin bos oldugu dogrulandi. 
+2022-09-13 13:30:12,966 INFO  [Log] urun_Sil_Ve_Sepetin_Bos_Oldugunu_Dogrula() PASSED 
+2022-09-14 13:20:23,300 INFO  [Log] Siteye gidildi 
+2022-09-14 13:20:23,471 INFO  [Log] Site dogrulamasi yapildi. 
+2022-09-14 13:20:26,269 INFO  [Log] ana_Sayfaya_Gidildigini_Dogrula() PASSED 
+2022-09-14 13:20:29,227 INFO  [Log] arama kutusuna sort yazildi 
+2022-09-14 13:20:32,935 INFO  [Log] arama kutusundan sort silindi 
+2022-09-14 13:20:32,935 INFO  [Log] arama_Kutusuna_Sort_Yaz_Ve_Sil() PASSED 
+2022-09-14 13:20:33,194 INFO  [Log] arama kutusuna gomlek yazildi ve entera basildi 
+2022-09-14 13:20:33,195 INFO  [Log] arama_Kutusuna_Gomlek_Yaz_Ve_Enter_Bas() PASSED 
+2022-09-14 13:20:43,967 INFO  [Log] Urune gidilip tiklanildi 
+2022-09-14 13:20:46,509 INFO  [Log] Urun bilgileri txt olarak kaydedildi 
+2022-09-14 13:20:46,509 INFO  [Log] rastgele_Urun_Secip_Bilgisini_Al() PASSED 
+2022-09-14 13:21:00,398 INFO  [Log] Urun sepete eklendi ve sepete gidildi 
+2022-09-14 13:21:00,399 INFO  [Log] secilen_Urunu_Sepete_Ekle() PASSED 
+2022-09-14 13:21:01,566 INFO  [Log] Sepetteki urun ile sayfadaki urunun fiyatlari karsilastirildi. 
+2022-09-14 13:21:01,567 INFO  [Log] urun_Fiyat_Karsilastir() PASSED 
+2022-09-14 13:21:17,939 INFO  [Log] Urun adedi artirildi ve 2 adet oldugu dogrulandi 
+2022-09-14 13:21:17,940 INFO  [Log] urun_Adedi_Artir_Ve_Dogrula() PASSED 
+2022-09-14 13:21:22,500 ERROR [Log] urun_Sil_Ve_Sepetin_Bos_Oldugunu_Dogrula() FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-9ONR3K3', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [77b82378f1348672cc254d24f474fe70, isElementDisplayed {id=2865cfed-7d68-4760-bd2d-958d627b7f39}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\Mehmet\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:8087}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:8087/devtool..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (77b82378f1348672cc254d24f474fe70)] -> class name: m-empty__messageTitle]
+Session ID: 77b82378f1348672cc254d24f474fe70 
+2022-09-19 20:18:00,603 ERROR [Log] arama_Kutusuna_Sort_Yaz_Ve_Sil() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder="Ürün, Marka Arayın"]"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'DESKTOP-9ONR3K3', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e828a4743ad19374ca865344b6ce7b41, findElement {using=xpath, value=//input[@placeholder="Ürün, Marka Arayın"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\Mehmet\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:1956}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:1956/devtool..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e828a4743ad19374ca865344b6ce7b41 
+2022-09-19 20:18:40,329 INFO  [Log] Siteye gidildi 
+2022-09-19 20:18:40,663 INFO  [Log] Site dogrulamasi yapildi. 
+2022-09-19 20:18:43,018 INFO  [Log] ana_Sayfaya_Gidildigini_Dogrula() PASSED 
+2022-09-19 20:19:03,166 INFO  [Log] Siteye gidildi 
+2022-09-19 20:19:03,332 INFO  [Log] Site dogrulamasi yapildi. 
+2022-09-19 20:19:05,025 INFO  [Log] ana_Sayfaya_Gidildigini_Dogrula() PASSED 
+2022-09-19 20:19:07,058 INFO  [Log] arama kutusuna sort yazildi 
+2022-09-19 20:19:10,142 INFO  [Log] arama kutusundan sort silindi 
+2022-09-19 20:19:10,142 INFO  [Log] arama_Kutusuna_Sort_Yaz_Ve_Sil() PASSED 
+2022-09-19 20:19:10,354 INFO  [Log] arama kutusuna gomlek yazildi ve entera basildi 
+2022-09-19 20:19:10,354 INFO  [Log] arama_Kutusuna_Gomlek_Yaz_Ve_Enter_Bas() PASSED 
+2022-09-19 20:19:19,317 INFO  [Log] Urune gidilip tiklanildi 
+2022-09-19 20:19:20,467 INFO  [Log] Urun bilgileri txt olarak kaydedildi 
+2022-09-19 20:19:20,467 INFO  [Log] rastgele_Urun_Secip_Bilgisini_Al() PASSED 
+2022-09-19 20:19:29,085 INFO  [Log] Urun sepete eklendi ve sepete gidildi 
+2022-09-19 20:19:29,085 INFO  [Log] secilen_Urunu_Sepete_Ekle() PASSED 
+2022-09-19 20:19:30,138 INFO  [Log] Sepetteki urun ile sayfadaki urunun fiyatlari karsilastirildi. 
+2022-09-19 20:19:30,139 INFO  [Log] urun_Fiyat_Karsilastir() PASSED 
+2022-09-19 20:19:36,480 INFO  [Log] Urun adedi artirildi ve 2 adet oldugu dogrulandi 
+2022-09-19 20:19:36,481 INFO  [Log] urun_Adedi_Artir_Ve_Dogrula() PASSED 
+2022-09-19 20:19:36,944 INFO  [Log] sepetteki urunler silindi ve sepetin bos oldugu dogrulandi. 
+2022-09-19 20:19:38,301 INFO  [Log] urun_Sil_Ve_Sepetin_Bos_Oldugunu_Dogrula() PASSED 
